@@ -1,8 +1,8 @@
 {                                                                     
-  "name": "Session-Generator",                                           
-  "description": "Session-Generator",                                       
-  "repository": "https://github.com/BADBOI-v1/Creds-json-paring-generator-by-badboi-",                                                                     
-  "logo": "https://telegra.ph/file/88b0444b1265ec6526822.jpg",           
+  "name": "Calvine-Creds",                                           
+  "description": "Creds generator created by Cobu-Tech",                                       
+  "repository": "https://github.com/calvineonyango/All-in-one-creds-",                                                                     
+  "logo": "https://telegra.ph/file/7ee551dc5e0a9616c398e.jpg",           
   "keywords": ["nodejs", "pair", "multi device"],                                               
   "buildpacks": [                                                     
     {                                                                   
