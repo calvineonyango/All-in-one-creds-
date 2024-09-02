@@ -55,8 +55,7 @@ router.get('/', async (req, res) => {
 					await delay(5000);
 					let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
 					await delay(800);
-				       await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: `
-
+				       await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: `🕷️🕷️🕷️🕷️🕷️
 
 *𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝*
 *𝐄𝐧𝐣𝐨𝐲❤️*
@@ -94,11 +93,11 @@ _____________________________
 		Qr_Code_By_Maher_Zubair.groupAcceptInvite("EKdfDFDoi5C3ck88OmbJyk")
              await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
 ┌─❖
-│ 𝛸-𝐹𝛩𝑅𝐶𝛯-𝛭𝐷 𝛻2
+│ 🕷️🕷️🕷️🕷️
 └┬❖  
-┌┤✑  Thanks for using 𝛸-𝐹𝛩𝑅𝐶𝛯-𝛭𝐷 𝛻2
-│└────────────┈ ⳹        
-│©2024-2030 𝛸-𝐹𝛩𝑅𝐶𝛯-𝛭𝐷 𝛻2
+┌┤✑  𝑰 𝑨𝑴 𝑪𝑹𝑨𝑻𝑬𝑫 𝑩𝒀 𝑪𝑶𝑩𝑼_𝑻𝑬𝑪𝑯
+│└────────────┈ ⳹    
+│©2024-2030 𝐂𝚯𝚩𝐔-𝚻𝚵𝐂𝚮
 └─────────────────┈ ⳹\n\n ` }, {quoted: classic });
  
 
